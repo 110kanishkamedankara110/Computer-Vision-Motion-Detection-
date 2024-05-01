@@ -78,6 +78,11 @@ public class Home extends javax.swing.JFrame {
         g2d.drawImage(im, 0, 0, null);
         g2d.dispose();
 
+        
+        
+        
+        
+     
         return bufferedImage;
     }
 
